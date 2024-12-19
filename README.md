@@ -1,3 +1,9 @@
+Note: The more information:https://www.tinkercad.com/things/j460ytGDzj0-traffic
+
+
+
+
+
 Modern traffic control systems make extensive use of embedded systems to ensure the effective 
 management of traffic flow. Once good example of this the control of traffic light systems. Traffic 
 light systems are essential for the safe management of road traffic junctions, preventing collisions 
